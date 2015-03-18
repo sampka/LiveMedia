@@ -1,0 +1,16 @@
+
+test {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	display: inline;
+}
+test2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #333;
+	display: inline;
+	left: 3px;
+}
